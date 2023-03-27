@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main menu.unity
     guid: 0f8d2eeb81efef845bb14b9d7d129e51
+  - enabled: 1
+    path: Assets/Scenes/Sokoban-Minigame.unity
+    guid: 0d5e653f3380ce44bbd28db15aba7a88
+  - enabled: 1
+    path: Assets/Scenes/Sokoban.unity
+    guid: 0ac6162b74441f846b2047fb158cbc1e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}

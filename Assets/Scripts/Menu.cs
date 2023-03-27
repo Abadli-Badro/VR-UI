@@ -10,6 +10,11 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene("Main game");
     }
 
+    public void startSokoban()
+    {
+        SceneManager.LoadScene("Sokoban", LoadSceneMode.Additive);
+    }
+
     public void quitGame()
     {
         Application.Quit();
