@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sokoban.unity
     guid: 0ac6162b74441f846b2047fb158cbc1e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4e962ec843ea04f51a8cdc8220d4fd48
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: 57ca83786947b44c286cb5416720362b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
